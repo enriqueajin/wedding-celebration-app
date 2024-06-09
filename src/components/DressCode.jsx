@@ -10,7 +10,7 @@ export default function DressCode() {
             <br />
             <p className="ceremony-title">DRESSCODE</p>
             <br />
-            <p className="dresscode-text">Semiformal</p>
+            <p className="dresscode-text">Formal</p>
             <br />
             <br />
             <br />
