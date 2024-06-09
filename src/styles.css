@@ -175,7 +175,6 @@ p {
   text-align: center;
 }
 .attendance-desc {
-  padding: 0 50px;
   text-align: center;
   line-height: 25px;
 }
@@ -201,4 +200,9 @@ p {
   font-family: "miltononebold";
   font-size: 3em;
   text-align: center;
+}
+
+.gifts-desc {
+  text-align: center;
+  line-height: 25px;
 }
