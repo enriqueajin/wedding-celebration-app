@@ -3,7 +3,7 @@ import "../styles.css";
 import Header from "../components/Header";
 import Introduction from "../components/Introduction";
 import CountDownTimer from "../components/CountDownTimer";
-import Ceremony from "../components/Ceremony";
+import Celebration from "../components/Celebration";
 import DressCode from "../components/DressCode";
 import PhotoGallery from "../components/PhotoGallery";
 import Attendance from "../components/Attendance";
@@ -12,6 +12,7 @@ import Footer from "../components/Footer";
 import smallBg from "../assets/bg-mobile.jpg"
 import mediumBg from "../assets/bg-tablet.jpg"
 import largeBg from "../assets/bg-desktop.jpg"
+import Gifts from "../components/Gifts";
 
 export default function Invitation() {
 
@@ -46,9 +47,10 @@ export default function Invitation() {
             <Header />
             <Introduction />
             <CountDownTimer />
-            <Ceremony />
+            <Celebration />
             <DressCode />
             <PhotoGallery />
+            <Gifts />
             <Attendance guests={guests}/>
             <Footer />
         </Box>

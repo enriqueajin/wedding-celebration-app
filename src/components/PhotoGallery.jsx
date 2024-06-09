@@ -86,6 +86,8 @@ export default function PhotoGallery() {
             <br />
             <br />
             <br />
+            <br />
+            <br />
         </>
     )
 }

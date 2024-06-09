@@ -1,7 +1,7 @@
 import { Box, Button, Divider } from "@mui/material";
-import rings from "../assets/rings.png";
+import champan from "../assets/champan.png";
 
-export default function Ceremony() {
+export default function Celebration() {
     
     const buttonStyle = { 
         backgroundColor: "#8c9c6d",
@@ -17,31 +17,31 @@ export default function Ceremony() {
     return(
         <>
             <Box className="rings-icon-container">
-                <img className="rings" src={rings} />
+                <img className="rings" src={champan} />
             </Box>
             <br />
-            <p className="ceremony-title">BODA CIVIL</p>
+            <p className="ceremony-title">CELEBRACIÓN</p>
             <br />
-            <p className="ceremony-desc">Pizza Vesuvio Cayalá</p>
+            <p className="ceremony-desc">Lugar:</p>
             <br />
-            <p className="ceremony-desc">Te esperamos</p>
+            <p className="ceremony-desc">Palmetto (trapiche)</p>
             <br />
             <br />
             <Box className="ceremony-details-container">
-                <p className="ceremony-date">25 AGO</p>
+                <p className="ceremony-date">31 AGO</p>
                 <Divider orientation="vertical" variant="li" flexItem/>
                 <Box className="ceremony-time-container">
-                    <p className="ceremony-time">1:30</p>
+                    <p className="ceremony-time">5:30</p>
                     <p className="ceremony-time-suffix">P.M.</p>
                 </Box>
             </Box>
             <br />
-            <p className="ceremony-address">CC. Paseo Cayalá, Nivel 1, Local A4-114 zona 16</p>
+            <p className="ceremony-address">Calzada Aguilar Batres, KM 13, Carretera al Pacífico, Cuesta Villa Lobos, Villa Nueva</p>
             <br />
             <br />
             <Button 
                 variant="contained"
-                href="https://maps.app.goo.gl/RKfQ4BGUi8fUBgT37" 
+                href="https://maps.app.goo.gl/YPrv2kA2bfCffTpZA" 
                 target="_blank" 
                 style={buttonStyle}>
                 VER UBICACIÓN

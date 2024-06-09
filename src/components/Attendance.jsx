@@ -112,7 +112,7 @@ const Attendance = (props) => {
             name: formData.name,
             attendees_quantity: formData.attendeesQuantity,
             message: formData.message,
-            type: "Civil"
+            type: "Celebración"
         }
 
         await instance({
@@ -124,6 +124,7 @@ const Attendance = (props) => {
             handleLoadingEnd();
             setResponseMessage('¡Gracias por tu confirmación!')
             handleOpenResponseDialog();
+            emptyFields();
             console.log(res);
 
         }).catch((e) => {
@@ -176,11 +177,21 @@ const Attendance = (props) => {
         }
     }
 
+    const textMargin = {
+        width: {
+            xs: '85%', 
+            sm: '85%', 
+            md: '30%'
+        }
+    }
+
     return(
         <>
             <p className="attendance-title ">CONFIRMAR ASISTENCIA</p>
             <br />
-            <p className="attendance-desc">Rogamos tu confirmación antes del 31 de julio.</p>
+            <Box sx={textMargin}>
+                <p className="attendance-desc">Tu presencia es muy importante para nosotros. Por ello, agradecemos que confirmes tu asistencia a más tardar el 31 de julio de 2024 para que oficialmente seas parte de nuestra celebración.</p>
+            </Box>
             <br />
             <br />
             <Box>
