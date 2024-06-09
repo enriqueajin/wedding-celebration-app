@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/wedding-celebration-app/static/css/main.e1997b55.css",
+    "main.js": "/wedding-celebration-app/static/js/main.4a391d3e.js",
+    "static/media/photo2.jpg": "/wedding-celebration-app/static/media/photo2.f0878254fb1498b7abbe.jpg",
+    "static/media/header.jpg": "/wedding-celebration-app/static/media/header.652092934caee33d466e.jpg",
+    "static/media/photo1.jpg": "/wedding-celebration-app/static/media/photo1.27b5dfed5fb69ba9fb9b.jpg",
+    "static/media/mainphoto.jpg": "/wedding-celebration-app/static/media/mainphoto.41a8faef226c0f5d8c87.jpg",
+    "static/media/photo3.jpg": "/wedding-celebration-app/static/media/photo3.4e75d334a669faa855e2.jpg",
+    "static/media/photo4.jpg": "/wedding-celebration-app/static/media/photo4.551be561d32a85af7aa7.jpg",
+    "static/media/bg-desktop.jpg": "/wedding-celebration-app/static/media/bg-desktop.412cf6a73ea0568a1b7c.jpg",
+    "static/media/bg-tablet.jpg": "/wedding-celebration-app/static/media/bg-tablet.524bf54b0e08cdf71360.jpg",
+    "static/media/bg-mobile.jpg": "/wedding-celebration-app/static/media/bg-mobile.35be229f1425d4dc4659.jpg",
+    "static/media/josephsophia.ttf": "/wedding-celebration-app/static/media/josephsophia.1199d36d0006c7d032a0.ttf",
+    "static/media/nexaheavy.ttf": "/wedding-celebration-app/static/media/nexaheavy.13e16a1c3c48dd492fa9.ttf",
+    "static/media/nexaextralight.ttf": "/wedding-celebration-app/static/media/nexaextralight.2e3441a81090afda5785.ttf",
+    "static/media/miltononebold.otf": "/wedding-celebration-app/static/media/miltononebold.65bd11baf800e55af407.otf",
+    "static/media/antaradistance.ttf": "/wedding-celebration-app/static/media/antaradistance.598e223c3660715f0838.ttf",
+    "static/media/dresscode.png": "/wedding-celebration-app/static/media/dresscode.c904b5958d290d81210b.png",
+    "static/media/champan.png": "/wedding-celebration-app/static/media/champan.92b73ad38b362b47eedb.png",
+    "index.html": "/wedding-celebration-app/index.html",
+    "main.e1997b55.css.map": "/wedding-celebration-app/static/css/main.e1997b55.css.map",
+    "main.4a391d3e.js.map": "/wedding-celebration-app/static/js/main.4a391d3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1997b55.css",
+    "static/js/main.4a391d3e.js"
+  ]
+}
