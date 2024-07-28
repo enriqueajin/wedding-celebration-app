@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wedding-celebration-app/static/css/main.e1997b55.css",
-    "main.js": "/wedding-celebration-app/static/js/main.4a391d3e.js",
+    "main.js": "/wedding-celebration-app/static/js/main.a8334f27.js",
     "static/media/photo2.jpg": "/wedding-celebration-app/static/media/photo2.f0878254fb1498b7abbe.jpg",
     "static/media/header.jpg": "/wedding-celebration-app/static/media/header.652092934caee33d466e.jpg",
     "static/media/photo1.jpg": "/wedding-celebration-app/static/media/photo1.27b5dfed5fb69ba9fb9b.jpg",
@@ -20,10 +20,10 @@
     "static/media/champan.png": "/wedding-celebration-app/static/media/champan.92b73ad38b362b47eedb.png",
     "index.html": "/wedding-celebration-app/index.html",
     "main.e1997b55.css.map": "/wedding-celebration-app/static/css/main.e1997b55.css.map",
-    "main.4a391d3e.js.map": "/wedding-celebration-app/static/js/main.4a391d3e.js.map"
+    "main.a8334f27.js.map": "/wedding-celebration-app/static/js/main.a8334f27.js.map"
   },
   "entrypoints": [
     "static/css/main.e1997b55.css",
-    "static/js/main.4a391d3e.js"
+    "static/js/main.a8334f27.js"
   ]
 }
